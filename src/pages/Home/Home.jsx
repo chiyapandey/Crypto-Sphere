@@ -31,9 +31,8 @@ const Home = () => {
   return (
     <div className='home'>
       <div className="hero">
-        <h1>Explore The Future of Cryptocurrency</h1>
-        <p>Welcome to the world's largest Cryptocurrency
-          marketplace. Sign up to explore more about cryptos.</p>
+        <h1>Explore The Future Of Cryptocurrency</h1>
+        <p>Enter the leading place for all things cryptocurrency. Sign up today to gain exclusive access to industry insights and the most recent crypto developments.</p>
         <form onSubmit={searchHandler}>
 
           <input onChange={inputHandler} list='coinlist' value={input} type="text"
