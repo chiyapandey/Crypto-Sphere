@@ -11,5 +11,5 @@ a{
 .app{
     min-height: 100vh;
     color: white;
-    background: rgb(13, 13, 71);
+    background: linear-gradient(135deg, #000000, #000428, #004e92);
 }
