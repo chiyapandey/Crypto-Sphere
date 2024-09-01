@@ -31,7 +31,7 @@ const Home = () => {
   return (
     <div className='home'>
       <div className="hero">
-        <h1>Explore<br />The Future of Cryptocurrency</h1>
+        <h1>Explore The Future of Cryptocurrency</h1>
         <p>Welcome to the world's largest Cryptocurrency
           marketplace. Sign up to explore more about cryptos.</p>
         <form onSubmit={searchHandler}>
